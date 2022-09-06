@@ -6,4 +6,6 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 6rem;
     color:brown;
+    text-align: center;
+    box-shadow: crimson 5px 10px 7px;
 }

@@ -1,1 +1,3 @@
-alert("moi");
+function jeps(){
+    alert("moi");
+}
